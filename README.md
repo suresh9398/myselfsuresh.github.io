@@ -1,4 +1,4 @@
-# myselfsuresh.github.io!
+
 <html>
 <body>
     <h1 id="text"style="color: brown;">జీవితం నేర్పిన పాఠాలు
