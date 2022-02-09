@@ -1,18 +1,5 @@
 # myselfsuresh.github.io!
 <html>
-<head><title>Javasuresh</title></head>
-<style>
-    #paragraph{
-        width: 50%;
-        height: fit-content;
-        float:right;
-        color:darkolivegreen;
-    }
-    #text{
-        text-align: center;
-    }
-
-</style>
 <body>
     <h1 id="text"style="color: brown;">జీవితం నేర్పిన పాఠాలు
     </h1>
